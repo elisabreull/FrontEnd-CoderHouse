@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>HOSTRO</title>
+	</head>
+	<body>
+		<header>
+			<img src="header-logo.png">
+			<nav>
+				<ul>
+					<li>HOME</li>
+					<li>CONTACT</li>
+				</ul>
+			</nav>
+		</header>
+		<section>
+			<img src="Captura de pantalla 2015-12-02 a las 9.45.22 p.m..png">
+			<form method="post" action="reciebe.php">
+				<input type="text">
+				<button type="button">Search</button>
+			</form>
+		</section>
+		<article>
+			<section>
+				<img src="wid1.png">
+				<p>Some text</p>
+				<p>A <strong>paragraph</strong> of text with an <br/> A second <u>row</u> of <del>text</del> with a</p>
+			</section>
+			<section>
+				<img src="wid2.png">
+				<p>Some text</p>
+				<p>A <strong>paragraph</strong> of text with an <br/> A second <u>row</u> of <del>text</del> with a</p>
+			</section>
+			<section>
+				<img src="wid3.png">
+				<p>Some text</p>
+				<p>A <strong>paragraph</strong> of text with an <br/> A second <u>row</u> of <del>text</del> with a</p>
+			</section>
+			<section>
+				<img src="wid4.png">
+				<p>Some text</p>
+				<p>A <strong>paragraph</strong> of text with an <br/> A second <u>row</u> of <del>text</del> with a</p>
+			</section>
+		</article>
+		<aside>
+			<p>A Subtitle <br/> <small>Some text Some text Some text</small></p>
+		</aside>
+		<section>
+			<section>
+				<img src="ser1.png">
+				<p> <strong>RETINA READY</strong></p>
+				<p>Cras tempus orci massa, id hendrerit mi egestas vitae class aptent taciti.</p>
+			</section>
+			<section>
+				<img src="ser2.png">
+				<p> <strong>EASY CUSTOMIZE</strong></p>
+				<p>Cras tempus orci massa, id hendrerit mi egestas vitae class aptent taciti.</p>
+			</section>
+			<section>
+				<img src="ser3.png">
+				<p> <strong>PIXEL PERFECT</strong></p>
+				<p>Cras tempus orci massa, id hendrerit mi egestas vitae class aptent taciti.</p>
+			</section>
+		</section>
+		<section>
+			<img src="iphone.png">
+		</section>
+		<section>
+			<section>
+				<img src="ser4.png">
+				<p> <strong>RETINA READY</strong></p>
+				<p>Cras tempus orci massa, id hendrerit mi egestas vitae class aptent taciti.</p>
+			</section>
+			<section>
+				<img src="ser5.png">
+				<p> <strong>EASY CUSTOMIZE</strong></p>					<p>Cras tempus orci massa, id hendrerit mi egestas vitae class aptent taciti.</p>
+			</section>
+			<section>
+				<img src="ser6.png">
+				<p> <strong>PIXEL PERFECT</strong></p>					<p>Cras tempus orci massa, id hendrerit mi egestas vitae class aptent taciti.</p>
+			</section>
+		</section>
+		<aside>
+			<p>A Subtitle <br/> <small>Some text Some text Some text</small></p>
+		</aside>
+		<section>
+			<section>
+				<p>Some text</p>
+				<p>$95</p><hr />
+				<table>
+					<tbody>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+					</tbody>
+				</table>
+				<button type="button">Button</button>
+			</section>
+			<section>
+				<p>Some text</p>
+				<p>$95</p><hr />
+				<table>
+					<tbody>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+					</tbody>
+				</table>
+				<button type="button">Button</button>
+			</section>
+			<section>
+				<p>Some text</p>
+				<p>$95</p><hr />
+				<table>
+					<tbody>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+					</tbody>
+				</table>
+				<button type="button">Button</button>
+			</section>
+			<section>
+				<p>Some text</p>
+				<p>$95</p><hr />
+				<table>
+					<tbody>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<td>Some text</td>
+							<td>1</td>
+						</tr>
+					</tbody>
+				</table>
+				<button type="button">Button</button>
+			</section>
+		</section>
+		<aside>
+			<p>Hosting use <mark>500,000</mark> happy costumers. Want to see services?</p>
+		</aside>
+		<footer>
+			<p>Some text</p>
+			<nav>
+				<ul>
+					<li>HOME</li>
+					<li>CONTACT</li>
+				</ul>
+			</nav>
+		</footer>
+	</body>
+</html>
